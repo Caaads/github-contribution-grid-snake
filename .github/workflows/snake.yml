@@ -15,7 +15,7 @@ jobs:
           theme: custom
           background: "1a1b26"
           foreground: "7aa2f7"
-          highlight: "bb9af7"   # neon purple accent
+          highlight: "bb9af7"
           outputs: |
             dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v3
